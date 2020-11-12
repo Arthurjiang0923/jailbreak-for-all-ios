@@ -1,0 +1,33 @@
+Important Points:
+
+Before you jailbreak your device, do this:
+
+1. Pangu is an untethered jailbreak that works on iOS 7 all versions
+2. It supports any iOS device that runs ios 7
+3. You need to disable your passcode and Find My iPhone/iPad until after the jailbreak
+4. Back your data up before you begin the jailbreak.
+
+Download for windows: https://mega.nz/file/IkVlQa7R#hwu6TxpNfoQgUxdTlkZcMfBAu9bDU00vZlUThsv4LS4
+Download for Mac: https://mega.nz/file/JhERXQAQ#-x-l_SqW88gunLzZtVTChPPJrh3nlJE8kRPgaqd3nNE
+
+if you are on a mac, open the DMG and drag it to your application folder
+if you are on a windows computer, run the EXE as administrator
+launch the app
+connect your device to your computer (you may need to enter your password)
+then click on the large jailbreak button
+Done!
+
+
+
+How to fix pangu errors:
+1. stuck at 45% - open iTunes > Summary and disable Encrypted Backups. Take an unencrypted backup of your data and then attempt the jailbreak again.
+2. Jailbreak won’t Install - If you have tried several times to jailbreak your device using Pangu and it isn’t working, follow these steps in order:
+Enable Airplane mode on your device and try the jailbreak again
+If that doesn’t work, reboot your computer and your device and have another go
+If not, open Pangu and use the Restore function to restore your device and then try again
+3. Cannot Find Cydia - If you jailbreak, but the Cydia app is not there, open Photos on your device and run Pangu again; wait, and you should see Cydia appear.
+4. Pangu Start Button is Greyed Out - To get past this error, make sure you have the latest iTunes version on your computer, reconnect your device and try the jailbreak again.
+
+
+
+
